@@ -1,0 +1,5 @@
+carrots, 6
+bananas, 4
+pizza, 2
+PEARS, 5
+chicken, 3

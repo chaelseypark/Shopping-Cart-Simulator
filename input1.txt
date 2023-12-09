@@ -1,0 +1,5 @@
+zucchini, 5
+pears, 3
+apples, 2
+eggs, 4
+pizza, 1

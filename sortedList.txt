@@ -1,0 +1,8 @@
+apples,2
+bananas,4
+carrots,6
+chicken,3
+eggs,4
+pears,8
+pizza,3
+zucchini,5
